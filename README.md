@@ -24,7 +24,7 @@ By pressing O, the tool will target the default Origin directory for PVZGW2 inst
 > The default installation directory of Origin is located at C:/Program Files (x86)/Origin Games. If you have Origin or PVZGW2 installed in a different drive or folder, please use the [Custom Directory](https://github.com/GSNReboot/PVZGW2-CryptBaseYeeter/edit/main/README.md#custom-directory-method) method instead.
 
 ### Custom Directory Method
-By pressing C, the tool will allow you to manually type out or paste the installation directory where you have PVZGW2 installed. The tool cannot paste from your clipboard, so make sure there aren't any spelling mistakes made when typing. After you ensure you've typed the directory correctly, press ENTER and the tool will target the typed directory and save that directory to the options.ini file that comes with the tool so once you have to use this method again, it'll be typed out for you.
+By pressing C, the tool will allow you to manually type out or paste the installation directory where you have PVZGW2 installed. After you ensure you've typed the directory correctly, press ENTER and the tool will target the typed directory and save that directory to the options.ini file that comes with the tool so once you have to use this method again, it'll be typed out for you.
 
 ## Credits
 <p align="center">
