@@ -1,6 +1,5 @@
 <p align="center">
-<img scr="https://github.com/GSNReboot/PVZGW2-CryptBaseYeeter/blob/main/CryptBaseYeeter/sprites/CryptBaseYeeter_Logo/630fd2c5-716c-420b-bde6-3cc4dce5346a.png" data-canonical src="https://github.com/GSNReboot/PVZGW2-CryptBaseYeeter/blob/main/CryptBaseYeeter/sprites/CryptBaseYeeter_Logo/630fd2c5-716c-420b-bde6-3cc4dce5346a.png" width="656"/>
-</p>
+<img scr="https://github.com/GSNReboot/PVZGW2-CryptBaseYeeter/blob/main/CryptBaseYeeter/sprites/CryptBaseYeeter_Logo/630fd2c5-716c-420b-bde6-3cc4dce5346a.png" data-canonical src="https://github.com/GSNReboot/PVZGW2-CryptBaseYeeter/blob/main/CryptBaseYeeter/sprites/CryptBaseYeeter_Logo/630fd2c5-716c-420b-bde6-3cc4dce5346a.png" width="656"/></p>
 
 <h1 align="center">PVZGW2 - CryptBaseYeeter</h1>
 
@@ -26,3 +25,13 @@ By pressing O, the tool will target the default Origin directory for PVZGW2 inst
 
 ### Custom Directory Method
 By pressing C, the tool will allow you to manually type out or paste the installation directory where you have PVZGW2 installed. The tool cannot paste from your clipboard, so make sure there aren't any spelling mistakes made when typing.
+
+## Credits
+<p align="center">
+<img scr="https://yt3.googleusercontent.com/x98GoJVV5Hs_qhtTIMAhIav0YHUSnp0URqvdsfe4vFlsCXUa6rx78wOXkU6bt2ZvM3Z4dzMW=s160-c-k-c0x00ffffff-no-rj" data-canonical src="https://yt3.googleusercontent.com/x98GoJVV5Hs_qhtTIMAhIav0YHUSnp0URqvdsfe4vFlsCXUa6rx78wOXkU6bt2ZvM3Z4dzMW=s160-c-k-c0x00ffffff-no-rj" width="160"/></p>
+<h3 align="center">GSNReboot/Equivalent/EQ</h3>
+<p align="center">Lead programmer, logo artist, Github Repository Manager</p>
+<p align="center">
+<img scr="https://yt3.googleusercontent.com/cLDidXSYotc4e3b2FLmzY-CB6PPcwrxQWqm6UsifMQifKnSBFZbgEdmBG75_m5AY2gd9AMoknw=s160-c-k-c0x00ffffff-no-rj" data-canonical src="https://yt3.googleusercontent.com/cLDidXSYotc4e3b2FLmzY-CB6PPcwrxQWqm6UsifMQifKnSBFZbgEdmBG75_m5AY2gd9AMoknw=s160-c-k-c0x00ffffff-no-rj" width="160"/></p>
+<h3 align="center">Zephyrsbs</h3>
+<p align="center">Assistant programmer</p>
