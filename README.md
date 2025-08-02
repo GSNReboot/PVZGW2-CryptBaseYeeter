@@ -30,8 +30,10 @@ By pressing C, the tool will allow you to manually type out or paste the install
 <p align="center">
 <img scr="https://yt3.googleusercontent.com/x98GoJVV5Hs_qhtTIMAhIav0YHUSnp0URqvdsfe4vFlsCXUa6rx78wOXkU6bt2ZvM3Z4dzMW=s160-c-k-c0x00ffffff-no-rj" data-canonical src="https://yt3.googleusercontent.com/x98GoJVV5Hs_qhtTIMAhIav0YHUSnp0URqvdsfe4vFlsCXUa6rx78wOXkU6bt2ZvM3Z4dzMW=s160-c-k-c0x00ffffff-no-rj" width="160"/></p>
 <h3 align="center">GSNReboot/Equivalent/EQ</h3>
+<p align="center">"This is pain :D"</p>
 <p align="center">Lead programmer, logo artist, Github Repository Manager</p>
 <p align="center">
 <img scr="https://yt3.googleusercontent.com/cLDidXSYotc4e3b2FLmzY-CB6PPcwrxQWqm6UsifMQifKnSBFZbgEdmBG75_m5AY2gd9AMoknw=s160-c-k-c0x00ffffff-no-rj" data-canonical src="https://yt3.googleusercontent.com/cLDidXSYotc4e3b2FLmzY-CB6PPcwrxQWqm6UsifMQifKnSBFZbgEdmBG75_m5AY2gd9AMoknw=s160-c-k-c0x00ffffff-no-rj" width="160"/></p>
 <h3 align="center">Zephyrsbs</h3>
+<p align="center">"Why did we make this in GameMaker?"</p>
 <p align="center">Assistant programmer</p>
