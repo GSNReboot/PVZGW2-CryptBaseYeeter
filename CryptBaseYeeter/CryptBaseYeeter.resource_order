@@ -20,6 +20,8 @@
     {"name":"Font2","order":1,"path":"fonts/Font2/Font2.yy",},
     {"name":"draw_rectangle_eq","order":2,"path":"scripts/draw_rectangle_eq/draw_rectangle_eq.yy",},
     {"name":"draw_text_eq","order":1,"path":"scripts/draw_text_eq/draw_text_eq.yy",},
+    {"name":"ini_cby","order":3,"path":"scripts/ini_cby/ini_cby.yy",},
+    {"name":"ini_log","order":4,"path":"scripts/ini_log/ini_log.yy",},
     {"name":"spr_CryptBaseYeeter_Logo","order":1,"path":"sprites/spr_CryptBaseYeeter_Logo/spr_CryptBaseYeeter_Logo.yy",},
   ],
 }

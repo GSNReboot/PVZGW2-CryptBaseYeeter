@@ -8,24 +8,21 @@ debug_input = keyboard_lastchar;
 if (debug_mode){
 	debug_check = " - DEBUG";
 }
-else{
-	debug_check = " - RELEASE";
-}
 
 // Dot anim
 dots_switch_delay -= 1;
 
 if (dots == "." && dots_switch_delay <= 0){
 	dots = "..";
-	dots_switch_delay = 30;
+	dots_switch_delay = dots_switch_delay_init;
 }
 if (dots == ".." && dots_switch_delay <= 0){
 	dots = "...";
-	dots_switch_delay = 30;
+	dots_switch_delay = dots_switch_delay_init;
 }
 if (dots == "..." && dots_switch_delay <= 0){
 	dots =".";
-	dots_switch_delay = 30;
+	dots_switch_delay = dots_switch_delay_init;
 }
 
 // Input Checks
@@ -106,15 +103,4 @@ if (keyboard_check_released(vk_escape)){
 }
 
 // Logging
-ini_open("_LOG.txt");
-ini_write_string("CBYLBL", "deleting from", global.file_location);
-if (debug_check == " - RELEASE"){
-	ini_write_string("CBYLBL", "debug check", "RELEASE");
-}
-else if (debug_check == " - DEBUG"){
-	ini_write_string("CBYLBL", "debug check", "DEBUG");
-}
-else{
-	ini_write_string("CBYLBL", "debug check", "noone");
-}
-ini_close();
+ini_log();

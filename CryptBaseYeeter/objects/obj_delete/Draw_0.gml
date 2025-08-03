@@ -34,7 +34,7 @@ draw_text_eq(50,400, "Press C to manually type your PVZGW2 DIRECTORY", Font1, c_
 }
 
 // Debug Mode
-if (debug_mode){
+if (debug_check = " - DEBUG"){
 	draw_text_eq(0,0, debug_input, Font2, c_white);
 	draw_text_eq(0,50, debug_input_check, Font2, c_white);
 

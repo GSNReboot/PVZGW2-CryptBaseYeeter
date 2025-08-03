@@ -41,6 +41,8 @@
     {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
     {"id":{"name":"draw_rectangle_eq","path":"scripts/draw_rectangle_eq/draw_rectangle_eq.yy",},},
     {"id":{"name":"draw_text_eq","path":"scripts/draw_text_eq/draw_text_eq.yy",},},
+    {"id":{"name":"ini_cby","path":"scripts/ini_cby/ini_cby.yy",},},
+    {"id":{"name":"ini_log","path":"scripts/ini_log/ini_log.yy",},},
     {"id":{"name":"scr_delete","path":"scripts/scr_delete/scr_delete.yy",},},
     {"id":{"name":"spr_CryptBaseYeeter_Logo","path":"sprites/spr_CryptBaseYeeter_Logo/spr_CryptBaseYeeter_Logo.yy",},},
   ],
