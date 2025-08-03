@@ -1,5 +1,5 @@
 <p align="center">
-<img scr="https://github.com/GSNReboot/PVZGW2-CryptBaseYeeter/blob/main/CryptBaseYeeter/sprites/CryptBaseYeeter_Logo/630fd2c5-716c-420b-bde6-3cc4dce5346a.png" data-canonical src="https://github.com/GSNReboot/PVZGW2-CryptBaseYeeter/blob/main/CryptBaseYeeter/sprites/CryptBaseYeeter_Logo/630fd2c5-716c-420b-bde6-3cc4dce5346a.png" width="656"/></p>
+<img scr="https://github.com/GSNReboot/PVZGW2-CryptBaseYeeter/blob/main/CryptBaseYeeter/sprites/spr_CryptBaseYeeter_Logo/7d6b6574-84c0-4b7c-a80a-9e91a2ffdacc.png" data-canonical src="https://github.com/GSNReboot/PVZGW2-CryptBaseYeeter/blob/main/CryptBaseYeeter/sprites/spr_CryptBaseYeeter_Logo/7d6b6574-84c0-4b7c-a80a-9e91a2ffdacc.png" width="656"/></p>
 
 <h1 align="center">PVZGW2 - CryptBaseYeeter</h1>
 
