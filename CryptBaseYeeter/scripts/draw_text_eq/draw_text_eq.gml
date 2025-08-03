@@ -7,7 +7,7 @@
    I found itpretty useful for this project.
 */
 function draw_text_eq(x, y, string, font, color){
-    draw_text(x,y+25,string);
-	draw_set_font(font);
+    draw_set_font(font);
 	draw_set_color(color);
+	draw_text(x,y,string);
 }
