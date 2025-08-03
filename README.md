@@ -6,7 +6,7 @@
 <p align="center">A tool that yeets the CryptBase.dll file out of your computer every time it gets the chance to see the light of day :)</p>
 
 ## Current Version
-v1.1 | Initial Release (August 1st, 2025)
+v1.2 | UI Update + Bugfixes (August 2st, 2025)
 
 ## Introduction
 CryptBaseYeeter is a tool made for PVZGW2 modding which can be automatically or manually set up to target the installation directory of PVZGW2 on your computer to delete the infamous CryptBase.dll file every time it's created.
