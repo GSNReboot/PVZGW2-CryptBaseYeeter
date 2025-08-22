@@ -6,7 +6,7 @@
 <p align="center">A tool that yeets the CryptBase.dll file out of your computer every time it gets the chance to see the light of day :)</p>
 
 ## Current Version
-v1.2 | UI Update, bugfixes and logs (August 2st, 2025)
+v1.3 | Final Release, UI Update, and Themes
 
 ## Introduction
 CryptBaseYeeter is a tool made for PVZGW2 modding which can be automatically or manually set up to target the installation directory of PVZGW2 on your computer to delete the infamous CryptBase.dll file every time it's created.
@@ -14,17 +14,17 @@ CryptBaseYeeter is a tool made for PVZGW2 modding which can be automatically or 
 ## Usage
 This section will teach you how to set up the tool and how the tool works.
 ### Steam Method
-By pressing S upon launching the tool, the tool will automatically target the default Steam installation directory of PVZGW2.
+By selecting the Steam Directory mode upon launching the tool, the tool will automatically target the default Steam installation directory of PVZGW2.
 > [!NOTE]
 > The default installation directory of Steam is located at C:/Program Files (x86)/Steam. If you have Steam or PVZGW2 installed in a different drive or folder, please use the [Custom Directory](https://github.com/GSNReboot/PVZGW2-CryptBaseYeeter/edit/main/README.md#custom-directory-method) method instead.
 
 ### Origin Method
-By pressing O, the tool will target the default Origin directory for PVZGW2 instead.
+By selecting the Origin Directory mode, the tool will target the default Origin directory for PVZGW2 instead.
 > [!NOTE]
 > The default installation directory of Origin is located at C:/Program Files (x86)/Origin Games. If you have Origin or PVZGW2 installed in a different drive or folder, please use the [Custom Directory](https://github.com/GSNReboot/PVZGW2-CryptBaseYeeter/edit/main/README.md#custom-directory-method) method instead.
 
 ### Custom Directory Method
-By pressing C, the tool will allow you to manually type out or paste the installation directory where you have PVZGW2 installed. After you ensure you've typed the directory correctly, press ENTER and the tool will target the typed directory and save that directory to the options.ini file that comes with the tool so once you have to use this method again, it'll be typed out for you.
+By selecting Custom Directory the tool will allow you to manually type out or paste the installation directory where you have PVZGW2 installed. After you ensure you've typed the directory correctly, press ENTER and the tool will target the typed directory and save that directory to the options.ini file that comes with the tool so once you have to use this method again, it'll be typed out for you.
 
 ## Credits
 <p align="center">
