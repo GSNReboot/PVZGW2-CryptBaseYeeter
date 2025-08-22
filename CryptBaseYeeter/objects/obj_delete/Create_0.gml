@@ -1,4 +1,4 @@
-// Dumped variables
+// Scripts
 ini_cby(0);
 
 // Deletion Check Variables
@@ -14,9 +14,18 @@ _ini_check = 0;
 // GLobal Variables
 global.file_location_custom = delete_custom_entry;
 global.file_location = "";
+global.mode = "sandbox";
+global.log_mode = false;
+global.log_report = "";
+
+// Display Vars
+dir_select_text = "Directory Sandbox";
+tip = "";
+dots = ".";
+dots_switch_delay = dots_switch_delay_init;
+display_text = dir_select_text;
 
 // Misc/Debug Variables
-dots = ".";
+display_hint = noone;
 debug_input = 0;
 debug_input_check = "";
-dots_switch_delay = dots_switch_delay_init;

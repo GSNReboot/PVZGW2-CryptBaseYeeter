@@ -1,0 +1,2 @@
+ini_open("_LOG.txt");
+global.log_report="LOGS\n"+ini_read_string("CBYLBL", "file to delete", "")+"\n"+ini_read_string("CBYLBL", "release mode", "")+"\n"+ini_read_string("CBYLBL", "is classic mode", "");

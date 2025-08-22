@@ -1,0 +1,1 @@
+global.button_on=false;
